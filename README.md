@@ -141,3 +141,6 @@ class Outer:
    python script_name.py
    ```
 
+----
+🚀
+**Happy Coding!** Practice these concepts by writing your own Python code.
