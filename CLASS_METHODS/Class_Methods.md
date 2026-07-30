@@ -95,3 +95,6 @@ Modifying global or class-level variables directly from outside the class expose
 # ❌ Bad Practice: Bypassing OOP structure entirely
 Student.school_name = "New School" # Raw assignment offers no data validation safety.
 ```
+----
+🚀
+**Happy Coding!** Practice these concepts by writing your own Python code.
