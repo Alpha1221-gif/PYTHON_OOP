@@ -6,15 +6,15 @@ Welcome to the **Python OOP** repository! This repository serves as a comprehens
 
 ## 📚 Table of Contents
 
-- [🐍 Python Classes/Objects](#-python-classesobjects)
-- [⚙️ Python `__init__` Method](#️-python-__init__-method)
-- [🎯 Python self Parameter](#-python-self-parameter)
-- [💎 Python Class Properties](#-python-class-properties)
-- [🛠️ Python Class Methods](#️-python-class-methods)
-- [🌿 Python Inheritance](#-python-inheritance)
-- [🎭 Python Polymorphism](#-python-polymorphism)
-- [🔒 Python Encapsulation](#-python-encapsulation)
-- [📦 Python Inner Classes](#-python-inner-classes)
+1- [🐍 Python Classes/Objects](#-python-classesobjects)
+2- [⚙️ Python `__init__` Method](#️-python-__init__-method)
+3- [🎯 Python self Parameter](#-python-self-parameter)
+4- [💎 Python Class Properties](#-python-class-properties)
+5- [🛠️ Python Class Methods](#️-python-class-methods)
+6- [🌿 Python Inheritance](#-python-inheritance)
+7- [🎭 Python Polymorphism](#-python-polymorphism)
+8- [🔒 Python Encapsulation](#-python-encapsulation)
+9- [📦 Python Inner Classes](#-python-inner-classes)
 
 ---
 
