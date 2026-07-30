@@ -96,3 +96,7 @@ test_obj.say_hello()
 | **Position** | Must always be listed as the **very first argument** in an instance method. |
 | **Calling syntax** | Omitted when calling (`obj.method()`); handled automatically by Python. |
 | **Naming Rule** | Always use the lowercase word `self` to maintain clean, readable code. |
+
+----
+🚀
+**Happy Coding!** Practice these concepts by writing your own Python code.
