@@ -110,3 +110,6 @@ user.first = "Jane"
 
 print(user.fullname) # ❌ Output is still "John Doe"! The data is completely out of sync.
 ```
+----
+🚀
+**Happy Coding!** Practice these concepts by writing your own Python code.
