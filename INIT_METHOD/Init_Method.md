@@ -98,3 +98,7 @@ broken_phone.display_info()
 | **Object Creation** | `phone = Smartphone("Apple", "i15")` | `phone = Smartphone()` |
 | **Attribute Setup** | ⚡ Automatic & dynamic on creation | 🐌 Manual, tedious line-by-line entry |
 | **Code Safety** | 🛡️ Secure; variables are guaranteed to exist | 🚨 Dangerous; missing variables crash the code |
+
+----
+🚀
+**Happy Coding!** Practice these concepts by writing your own Python code.
