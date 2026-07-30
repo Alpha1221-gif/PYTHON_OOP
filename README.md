@@ -6,7 +6,7 @@ Welcome to the **Python OOP** repository! This repository serves as a comprehens
 
 ## 📚 Table of Contents
 
-- [🐍 Python Classes/Objects](#-python-classesobjects)
+- [🐍 Python Classes/Objects](#-python-classesobjects) #CLASSES_OBJECTS
 - [⚙️ Python `__init__` Method](#️-python-__init__-method)
 - [🎯 Python self Parameter](#-python-self-parameter)
 - [💎 Python Class Properties](#-python-class-properties)
