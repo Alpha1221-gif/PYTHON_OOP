@@ -1,4 +1,4 @@
-# 🔒 Encapsulation in Object-Oriented Programming (OOP) using Python
+# 🐍 Encapsulation in Object-Oriented Programming (OOP) using Python
 
 Encapsulation restricts direct access to specific components of an object. It bundles data (attributes) and methods into a single unit (a class) and hides the internal state using access modifiers.
 
@@ -118,4 +118,7 @@ obj = Secret()
 print(obj._Secret__password)  # Output: Admin123
 ```
 
+----
+🚀
+**Happy Coding!** Practice these concepts by writing your own Python code.
 
