@@ -123,3 +123,6 @@ obj = Child()
 print(obj.show())  # Output: Child's overridden method
 ```
 
+----
+🚀
+**Happy Coding!** Practice these concepts by writing your own Python code.
