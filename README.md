@@ -3,7 +3,11 @@
 Welcome to the **Python OOP** repository! This repository serves as a comprehensive guide and code reference for mastering Object-Oriented Programming principles in Python.
 
 ---
-
+### ⚠️ Important Note for Beginners
+> 💡 **New to Python?** If you are completely new to coding or don't know the core syntax of Python yet, please stop here and learn basic Python first! Data Structures require a strong grasp of loops, functions, and Object-Oriented Programming (OOP).
+> 
+> I have built a dedicated repository covering all fundamental concepts, syntax, and foundational exercises:
+> 🔗 **[Explore the BASIC_PYTHON Repository Here](https://github.com/Alpha1221-gif/BASIC_PYTHON)** 👈
 ## 📚 Table of Contents
 
 - [🐍 Python Classes/Objects](#-python-classesobjects) #CLASSES_OBJECTS
